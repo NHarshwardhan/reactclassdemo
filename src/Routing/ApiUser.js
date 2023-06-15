@@ -35,7 +35,7 @@ export default function ApiUser() {
                                  <th>Id</th>
                                  <th>Name</th>
                                  <th>Email</th>
-                                 <th>Action</th>
+                                 <th>Action(s)</th>
                               </tr>
                           </thead>
                           <tbody>
